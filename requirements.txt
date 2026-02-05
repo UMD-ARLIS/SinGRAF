@@ -29,7 +29,7 @@ oauthlib==3.2.2
 omegaconf==2.1.0
 packaging==23.1
 Pillow==9.5.0
-protobuf==3.20.3
+protobuf==5.29.6
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pyDeprecate==0.3.1
